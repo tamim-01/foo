@@ -1,0 +1,4 @@
+project:
+  name: MyFirstCIProject
+  version: 1.0.0
+  description: simple project to learn CI CD
